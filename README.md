@@ -1,0 +1,13 @@
+# full_wisky8176_tb_n-user 7.0 NRD90M 1553054487 test-keys
+- manufacturer: gpd
+- platform: mt8173
+- codename: gpd_en_vr
+- flavor: full_wisky8176_tb_n-user
+- release: 7.0
+- id: NRD90M
+- incremental: 1553054487
+- tags: test-keys
+- fingerprint: GPD/GPD/gpd_en_vr:7.0/NRD90M/1553054487:user/test-keys
+- brand: GPD
+- branch: full_wisky8176_tb_n-user-7.0-NRD90M-1553054487-test-keys
+- repo: gpd_gpd_en_vr_dump
